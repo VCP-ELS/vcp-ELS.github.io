@@ -1,26 +1,26 @@
 # Site settings
 
 # Title of the Webpage (e.g. group name)
-title: "VCP Stamm Martin Luther"
+title: "VCP Stamm Ernsbach Limestor Sindringen"
 # Short description of the group (single line)
-description: "Pfadfinden in Eisenach."
+description: "Pfadfinden unter dem Limestor."
 # Name of the group
-group_name: VCP Stamm Martin Luther
+group_name: VCP Stamm Ernsbach Limestor Sindringen
 # Address of the group
 group_address: >
-  Am Kirchweg 3<br/>
-  12345 Eisenach
+  Kirchweg 3<br/>
+  74670 Ernsbach
 # Phone number of the group
-group_phone: 0123 / 456 78 90
+group_phone: 
 # Emailadress of the group
-group_email: kontakt@test-stamm.de
+group_email: 
 # Name of the Webmaster
-name: 'Walter Webmaster'
+name: 'Andreas Zipf'
 # Emailadress of the Webmaster
-email: info@johannes-engelke.de
+email: 
 
 # URL of the webpage
-url: "http://vcp-de.github.io/" # the base hostname & protocol for your site
+url: "http://vcp-ELS.github.io/" # the base hostname & protocol for your site
 
 # Images
 
